@@ -1,0 +1,7 @@
+E:\клиент-сервер\ServerTcp\ServerTcp\bin\Debug\ServerTcp.exe.config
+E:\клиент-сервер\ServerTcp\ServerTcp\bin\Debug\ServerTcp.exe
+E:\клиент-сервер\ServerTcp\ServerTcp\bin\Debug\ServerTcp.pdb
+E:\клиент-сервер\ServerTcp\ServerTcp\obj\Debug\ServerTcp.csprojAssemblyReference.cache
+E:\клиент-сервер\ServerTcp\ServerTcp\obj\Debug\ServerTcp.csproj.CoreCompileInputs.cache
+E:\клиент-сервер\ServerTcp\ServerTcp\obj\Debug\ServerTcp.exe
+E:\клиент-сервер\ServerTcp\ServerTcp\obj\Debug\ServerTcp.pdb
